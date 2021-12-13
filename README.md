@@ -10,7 +10,7 @@ Skills: REACT / REDUX / JS / EXPRESS / NODE.JS / HTML / CSS / POSTGRESS
 - 🌱 Estoy aprendiendo MongoDB, Socket.io, Material UI 
 - 📫 Como contactarme: Email: juandaniele@gmail.com 
 
--Proyectos : Full Stack Developer -"Food App" - :
+-Proyectos : Full Stack Developer -![ Food APP](https://web.whatsapp.com/7f905921-bf7e-468d-8027-2c88eb688877)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juandaniele)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-cruz-daniele//)  
