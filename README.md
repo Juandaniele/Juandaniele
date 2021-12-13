@@ -6,9 +6,9 @@ Estoy en busca de mi primer puesto laboral en el mundo IT, muy emocionado y ansi
 
 Skills: REACT / REDUX / JS / EXPRESS / NODE.JS / HTML / CSS / POSTGRESS
 
-- 🔭 I’m currently working on un sistema de gestión administrativa e innovación académica junto a otros compañeros! 
-- 🌱 I’m currently learning MongoDB, Socket.io, Material UI 
-- 📫 How to reach me: Email: juandaniele@gmail.com 
+- 🔭 Actualmente estoy trabajdno en un sistema de gestión administrativa e innovación académica junto a otros compañeros! 
+- 🌱 Estoy aprendiendo MongoDB, Socket.io, Material UI 
+- 📫 Como contactarme: Email: juandaniele@gmail.com 
 
 -Proyectos : Full Stack Developer -"Food App" - :
 
