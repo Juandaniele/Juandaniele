@@ -18,9 +18,9 @@
 - 📫 Como contactarme: Email: juandaniele@gmail.com 
 
 -Proyectos : Full Stack Developer - Food App
-[![7f905921-bf7e-468d-8027-2c88eb688877.jpg](https://i.postimg.cc/G3gQDWfT/7f905921-bf7e-468d-8027-2c88eb688877.jpg)](https://postimg.cc/Hj5XDhdT)
+[![7f905921-bf7e-468d-8027-2c88eb688877.jpg](https://i.postimg.cc/G3gQDWfT/7f905921-bf7e-468d-8027-2c88eb688877.jpg)](https://postimg.cc/Hj5XDhdT)}]
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juandaniele)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-cruz-daniele//)  
+![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juandaniele) ![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-cruz-daniele//)  
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juandaniele&show_icons=true)  
