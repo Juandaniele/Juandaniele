@@ -7,12 +7,19 @@
 💡 Skills:  
 
 🔴 REACT
-🔴 REDUX
+
+🔴 REDUX        
+
 🔴 JS
+
 🔴 EXPRESS
+
 🔴 NODE.JS
+
 🔴 HTML
+
 🔴 CSS
+
 🔴 POSTGRESS
 
 
